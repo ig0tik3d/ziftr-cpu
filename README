@@ -1,12 +1,5 @@
-This is the updated version of CPU Miner to support AdvSHA3 hashing method
+This is the updated version of CPU Miner to support hashing method
 for ZiftrCoin.
-
-AdvSHA3 is the advanced hashing method for 
-   ultra secure but not slow
-   better CPU efficiency than GPU
-
-Git tree: https://github.com/rtc29462/cpuminer
-
 ======================================================================================
 
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
